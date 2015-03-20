@@ -1,9 +1,26 @@
 {
-  "name"          : "jquery-scrollspy",
-  "version"       : "0.1.3",
-  "main"          : "scrollspy.js",
-  "dependencies": {
-        "jquery": ">=1.7"
-	},
-  "ignore"        : ["scrollSpy.jquery.json"]
+  "name": "jquery-scrollspy",
+  "version": "0.1.3",
+  "homepage": "https://github.com/thesmart/jquery-scrollspy",
+  "authors": [
+    "(John Smart <smartj@gmail.com>)"
+  ],
+  "description": "scrollspy plugin for jquery",
+  "main": "scrollspy.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "scroll",
+    "jquery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
