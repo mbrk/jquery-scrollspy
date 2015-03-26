@@ -1,16 +1,7 @@
 {
   "name": "jquery-scrollspy",
-  "main": "scrollspy.js",
   "version": "0.1.3",
-  "homepage": "https://github.com/thesmart/jquery-scrollspy",
-  "description": "scrollspy plugin for jquery",
-  "keywords": [
-    "scroll",
-    "jquery",
-    "plugin"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "example"
-  ]
+  "main": "scrollspy.js",
+  "keywords": ["scroll","jquery","plugin"],
+  "ignore" : ["example"]
 }
