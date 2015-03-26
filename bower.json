@@ -1,5 +1,5 @@
 {
-  "name": "jqueryscrollspy",
+  "name": "jquery-scrollspy",
   "main": "scrollspy.js",
   "version": "0.1.3",
   "homepage": "https://github.com/thesmart/jquery-scrollspy",
@@ -11,11 +11,6 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
     "example"
   ]
 }
